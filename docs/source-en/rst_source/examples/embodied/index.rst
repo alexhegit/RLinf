@@ -271,6 +271,17 @@ as well as reinforcement learning training examples on real robots.
        </p>
      </div>
 
+      <div style="flex: 1 1 30%; max-width: 300px; text-align: center;">
+        <img src="https://github.com/RLinf/misc/raw/main/pic/3_layer_mlp.jpg"
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" />
+        <p style="margin-top: 8px; font-size: 14px; line-height: 1.4;">
+          <a href="mi300x_maniskill_sac_mlp.html" style="text-decoration: underline; color: blue;">
+            <b>MI300X Tutorial for ManiSkill SAC-MLP</b>
+          </a><br>
+          Validation notes and current blockers for running the same example on a single MI300X VF GPU
+        </p>
+      </div>
+
    </div>
 
    <div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
@@ -446,6 +457,7 @@ as well as reinforcement learning training examples on real robots.
    mlp
    sac_flow
    rocm_maniskill_sac_mlp
+   mi300x_maniskill_sac_mlp
    sft_openpi
    sft_vlm
    nft_openpi

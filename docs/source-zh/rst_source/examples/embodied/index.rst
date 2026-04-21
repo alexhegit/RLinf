@@ -416,6 +416,7 @@
    :maxdepth: 2
 
    maniskill
+   maniskill_sac_mlp_rocm
    libero
    liberoplus_pro
    behavior

@@ -426,6 +426,7 @@ as well as reinforcement learning training examples on real robots.
    :maxdepth: 2
 
    maniskill
+   maniskill_sac_mlp_rocm
    libero
    liberoplus_pro
    behavior
